@@ -53,4 +53,4 @@ console.log('foi ' + id);
 }
 ```
 
-![alt tag](http://url/to/img.png)
+![](http://whiteboyz.xyz/img/Screenshot%20from%202017-03-09%2013-26-18.png)
