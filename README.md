@@ -2,6 +2,8 @@
 
 **Twitter Translation Center Bug/Hack**
 
+**Voting automatically in TTC translations**
+
 After analyzing the voting system of the TTC,
 
 I noticed that the sending of the voting request was done through the POST method in the url 
